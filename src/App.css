@@ -1,0 +1,78 @@
+
+  .App {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    padding: 2rem;
+    border-radius: 0.5rem;
+    width: 39rem;
+    margin: 20vh auto;
+    box-shadow: 1px 2px 10px rgba(0, 0, 0, 0.1);
+  }
+  .flex {
+    padding-top: 15px;
+    display: flex;
+    justify-content: space-between;
+  }
+
+.myForm{
+  width: 94%;
+  background-color: whitesmoke;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.formField{
+  box-align: center;
+  width: 90%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: block;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  
+  text-align: center;
+}
+
+.myButton{
+  width: 50%;
+  background-color: #e7ae11;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.myList{
+  list-style: none;
+}
+
+.myListButton{
+  display: inline-block;
+  height: auto;
+  width: auto;
+  border-radius: 7px;
+  border: 1px solid #00b894;
+  margin: 3px 5px;
+}
+img{
+  text-decoration:none;
+  border:0;
+  width : 300px;
+  height : 120px;
+  margin : 0;
+  padding : 5px;
+  margin-left: auto;
+  margin-right: auto;
+}
+h3{
+opacity: .5;
+
+}
+h2{
+  opacity: .7;
+  
+  }
